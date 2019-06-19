@@ -2,8 +2,8 @@
 ## Introduction
 Circular RNAs (circRNAs) are a novel class of endogenous noncoding RNAs. Emerging evidence has shown that circRNAs can be a novel biomarker or therapeutic target for many diseases. Therefore, identifying potential disease-related circRNAs is helpful in improving the efficiency of finding therapeutic targets for diseases. Here, a computational model (PreCDA) is proposed to predict potential circRNA-disease associations.
 ## Usage
-IDE：IntelliJ IDEA
-Development Language: Java, scala
+IDE：IntelliJ IDEA  
+Development Language: Java, scala  
 
 Step 1. run filehandler.java to create files taht contains circRNA-disease associations from different circRNA databases  
 Step 2. run ExpressProfile.java to calculate circRNA expression similarity  
