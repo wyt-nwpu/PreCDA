@@ -14,7 +14,7 @@ public class PersonalRank {
 	final static double et = 0.7;//expression sim threshold
 	final static double ct = 0.0;//cosin sim threshold
 	final static double st = 0.0;//sim threshold
-	final static String CIRCRNA_rootString = "E:/data/github/datasource/";
+	final static String CIRCRNA_rootString = "PreCDA/datasource/";
 	final static String CIRCRNA_workplace = CIRCRNA_rootString+"output/";
 	final static String prefixforCosin = "RNAUniCosSimBPAJAve_"+et+"_"+ct+"_"+st+"_";
 	/***

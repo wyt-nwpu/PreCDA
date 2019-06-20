@@ -26,7 +26,7 @@ import static javasrc.filehandler.createRNAIDMap;
  * calculate circRNA expression similarity
  */
 public class ExpressProfile {
-	final static String CIRCRNA_rootString = "E:/data/github/datasource/";
+	final static String CIRCRNA_rootString = "PreCDA/datasource/";
 	final static String CIRCRNA_workplace = CIRCRNA_rootString+"output/";
 
 	/***

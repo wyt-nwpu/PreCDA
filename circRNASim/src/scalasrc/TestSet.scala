@@ -13,7 +13,7 @@ object TestSet {
   val st = 0.0
   val prefixforCosin = "RNAUniCosSimBPAJAve_"+et+"_"+ct+"_"+st+"_"
 
-  val CIRCRNA_rootString = "E:/data/github/datasource/output/"
+  val CIRCRNA_rootString = "PreCDA/datasource/output/"
 
   /***
     * read the circRNA-disease association database

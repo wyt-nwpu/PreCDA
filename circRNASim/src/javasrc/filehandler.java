@@ -8,7 +8,7 @@ import java.util.*;
  * Processing source files
  */
 public class filehandler {
-    final static String CIRCRNA_rootString = "E:/data/github/datasource/";
+    final static String CIRCRNA_rootString = "PreCDA/datasource/";
     final static String CIRCRNA_workplace = CIRCRNA_rootString+"output/";
 
     /****

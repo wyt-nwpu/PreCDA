@@ -7,7 +7,7 @@ import static javasrc.circRNAsim.readCirc2Disease;
 
 public class UniNet {
 
-    final static String CIRCRNA_rootString = "E:/data/github/datasource/";
+    final static String CIRCRNA_rootString = "PreCDA/datasource/";
     final static String CIRCRNA_workplace = CIRCRNA_rootString+"output/";
     /***
      * read circRNA similarity file
