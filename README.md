@@ -4,6 +4,7 @@ Circular RNAs (circRNAs) are a novel class of endogenous noncoding RNAs. Emergin
 ## Usage
 IDE：IntelliJ IDEA  
 Development Language: Java, scala  
+Note: please set the appropriate path before running
 
 Step 1. run filehandler.java to create files taht contains circRNA-disease associations from different circRNA databases  
 Step 2. run ExpressProfile.java to calculate circRNA expression similarity  
