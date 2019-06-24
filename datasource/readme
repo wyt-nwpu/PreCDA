@@ -1,6 +1,6 @@
 File Directory Description
 
-<disease>:
+<Disease>:
 DO_Medic_Allsynonym.txt: the synonym list extracted from DO and MEDIC  
 fndo_sim_sort_nomal.txt: the disease similarity based on FNSemSim  
   
