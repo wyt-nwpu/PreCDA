@@ -1,0 +1,9 @@
+File Directory Description
+
+<disease>:
+DO_Medic_Allsynonym.txt: the synonym list extracted from DO and MEDIC  
+fndo_sim_sort_nomal.txt: the disease similarity based on FNSemSim  
+  
+<circRNA>: circRNA databases involved in circRNA-disease association prediction  
+  
+<output>: the results based on PreCDA
