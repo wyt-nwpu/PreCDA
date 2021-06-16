@@ -6,7 +6,7 @@ IDE：IntelliJ IDEA
 Development Language: Java, scala  
 Note: please set the appropriate path before running
 
-Step 1. run filehandler.java to create files taht contains circRNA-disease associations from different circRNA databases  
+Step 1. run filehandler.java to create files that contains circRNA-disease associations from different circRNA databases  
 Step 2. run ExpressProfile.java to calculate circRNA expression similarity  
 Step 3. run circRNAsim.java to calculate circRNA functional similarity  
 Step 4. run UniNet.java to build the associations between circRNAs  
